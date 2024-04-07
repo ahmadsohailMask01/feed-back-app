@@ -1,0 +1,17 @@
+.footer_div {
+  display: flex;
+  background-color: #e60000;
+  width: 100%;
+  justify-content: center;
+}
+.footer_container {
+  display: flex;
+  padding: 2%;
+  width: 96%;
+  justify-content: center;
+}
+.footer_container span {
+  font-family: sans-serif;
+  color: white;
+  font-size: 18px;
+}
