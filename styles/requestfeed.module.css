@@ -26,3 +26,8 @@
   border-color: #333333;
   transition: 0.6s ease-in-out;
 }
+@media screen and (max-width: 500px) {
+  .sec_container span {
+    width: 90%;
+  }
+}
